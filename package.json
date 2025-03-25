@@ -1,0 +1,14 @@
+{
+  "name": "suregifts_merchants",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "undici": "^7.5.0"
+  }
+}
